@@ -8,3 +8,5 @@ A hub for paper reviews in Interpretable Deep Learning
 - <a name="todo"></a> Examples are not enough, learn to criticize! Criticism for Interpretability (**NIPS2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/MMD-critic.md) 
 ### 2015
 - <a name="todo"></a> Understanding Neural Networks Through Deep Visualization (**ICML2015**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/understandNN.md) 
+### 2013
+- <a name="todo"></a> Visualizing and Understanding Convolutional Networks - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/deconvnet.md) 
