@@ -2,6 +2,7 @@
 A hub for paper reviews in Interpretable Deep Learning
 ### 2018
 - <a name="todo"></a> Generating Counterfactual Explanations with Natural Language (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/counterfactual.md) 
+- <a name="todo"></a> Interpretable Discovery in Large Image Data Sets (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/demud.md) 
 ### 2017
 - <a name="todo"></a> Visualizing Deep Neural Network Decisions: Prediction Difference Analysis (**ICLR2017**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/evidence.md) 
 ### 2016
