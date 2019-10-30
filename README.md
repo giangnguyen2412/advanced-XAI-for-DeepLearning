@@ -6,6 +6,7 @@ A hub for paper reviews in Interpretable Deep Learning
 - <a name="todo"></a> Towards Providing Explanations for AI Planner Decisions (**IJCAI/ECAI 2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/XAI-plan.md) 
 ### 2017
 - <a name="todo"></a> Visualizing Deep Neural Network Decisions: Prediction Difference Analysis (**ICLR2017**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/evidence.md) 
+- <a name="todo"></a> Interpretable Deep Models for ICU Outcome Prediction (**AMIA 2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/icu_mimic.md) 
 ### 2016
 - <a name="todo"></a> Examples are not enough, learn to criticize! Criticism for Interpretability (**NIPS2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/MMD-critic.md) 
 ### 2015
