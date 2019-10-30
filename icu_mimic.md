@@ -1,5 +1,3 @@
-
-
 # Summary
 In today's hospitals, model interpretability is not only important but also necessary, since clinicians are 
 increasingly relying on data-driven solutions for patient monitoring and decision-making. Thus, an important 
