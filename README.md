@@ -9,6 +9,7 @@ A hub for paper reviews in Interpretable Deep Learning
 - <a name="todo"></a> Interpretable Deep Models for ICU Outcome Prediction (**AMIA 2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/icu_mimic.md) 
 ### 2016
 - <a name="todo"></a> Examples are not enough, learn to criticize! Criticism for Interpretability (**NIPS2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/MMD-critic.md) 
+- <a name="todo"></a> The Mythos of Model Interpretability (**ICML2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/mythos.md) 
 ### 2015
 - <a name="todo"></a> Understanding Neural Networks Through Deep Visualization (**ICML2015**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/understandNN.md) 
 ### 2013
