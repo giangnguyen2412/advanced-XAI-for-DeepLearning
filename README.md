@@ -5,6 +5,7 @@ A hub for paper reviews in Interpretable Deep Learning
 - <a name="todo"></a> Interpretable Discovery in Large Image Data Sets (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/demud.md) 
 - <a name="todo"></a> Towards Providing Explanations for AI Planner Decisions (**IJCAI/ECAI2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/XAI-plan.md) 
 - <a name="todo"></a> Learning to Explain: An Information-Theoretic Perspective on Model Interpretation (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/L2X.md) 
+- <a name="todo"></a> Anchors: High-Precision Model-Agnostic Explanations (**AAAI2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/anchors.md) 
 ### 2017
 - <a name="todo"></a> Visualizing Deep Neural Network Decisions: Prediction Difference Analysis (**ICLR2017**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/evidence.md) 
 - <a name="todo"></a> Interpretable Deep Models for ICU Outcome Prediction (**AMIA 2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/icu_mimic.md) 
