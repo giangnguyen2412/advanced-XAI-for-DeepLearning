@@ -24,8 +24,11 @@ complex data space.
 
 Here **fitting models to complex datasets often requires the use of regularization** means when training, we add regularization to generalize both prototype and criticism then we can not see the real distribution of data.
 
-Then now authors define `p` is the distribution for prototype and `q` is the distribution for criticism.
-The idea is if we can maximize the difference between `p` and `q`. As the eq(2) in paper indicates, the *witness function* measures the maximum discrepancy between two expectations. This function is positive when Q underfits P, and negative wherever Q overfits P. Then we need to maximize (2) to separate the two expectations as far as possible. 
+Then now authors define `p` is the distribution for samples and `q` is the distribution for the dataset.
+Selecting prototypes by minimizing MMD, and Selecting criticisms by maximizing - finding peaks in witness function.
+**It is understandable as samples giving high MMD will far from the distribution of dataset => criticisms and vice versa**.
+
+As the eq(2) in paper indicates, the *witness function* measures the maximum discrepancy between two expectations. This function is positive when Q underfits P, and negative wherever Q overfits P. Then we need to maximize (2) to separate the two expectations as far as possible. 
 
 (2) is approximated as (5) using sample expectations.
 
