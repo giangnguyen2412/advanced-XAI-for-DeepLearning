@@ -14,6 +14,18 @@ on its neighbor pixels. For a pixel, we can find a square patch that contain the
 Several features could also be removed at once. It is not only interesting to analyze the input-output relation of the 
 classifier, but also to look at what is going on inside the hidden layers of the network. Hence, authors propose activation 
 difference to observe how the units of any layer of the network influence a node from a deeper layer.
+
+* Conditional sampling: Instead of a crude approximation from Robnik-Šikonja & Kononenko (crude approx), authors use conditional sampling which is a better approximation method based on the relationships amongs consequent pixels in an image.
+* Multivariate analysis: They also support removing multiple features from an image to see the changes in the prediction of the classifiser.
+* Deep visulization: Activation map visualization of intermediate layers.
+# Experiments
+- We can see that conditional sampling leads
+to results that are more refined in the sense that they concentrate more around the object. We can
+also see that marginal sampling leads to pixels being declared as important that are very easily
+predictable conditioned on their neighboring pixels (like in the saxophone example). Throughout our
+experiments, we have found that conditional sampling tends to give more specific and fine-grained
+results than marginal sampling. For the rest of our experiments, we therefore show results using
+conditional sampling only.
 # Contributions
 -	Propose a new method visualizing deep neural networks by using a more powerful conditional, multivariate model.
 -	The results provide insights for future research as showing which pixels of a specific input image are positive or 
