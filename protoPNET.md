@@ -23,4 +23,4 @@ The schematic is as follows:
 ![](https://github.com/luulinh90s/paper-review-interpretable-machine-learning/blob/master/images/protoPNET.png)
 
 The training algorithm is divided into three stages: 1) stochastic gradient descent (SGD) of layers before
-the last layer; (2) projection of prototypes (where prototypes are learned); (3) convex optimization of last layer.
+the last layer; (2) projection of prototypes; (3) convex optimization of last layer.
