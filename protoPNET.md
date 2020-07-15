@@ -24,3 +24,6 @@ The schematic is as follows:
 
 The training algorithm is divided into three stages: 1) stochastic gradient descent (SGD) of layers before
 the last layer; (2) projection of prototypes; (3) convex optimization of last layer.
+
+The prototypical patches are learned by a clustering algorithm included in the first Equation of 2.2. The step 1 of the training algo finds prototypes, while step 2 will update
+these prototypes.
