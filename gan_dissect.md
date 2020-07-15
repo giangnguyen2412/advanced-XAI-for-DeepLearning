@@ -1,7 +1,24 @@
 # Summary
-Generative Adversarial Networks (GANs) have recently achieved impressive results for many real-world applications, and many GAN variants have emerged with improvements in sample quality and training stability. However, visualization and understanding of GANs is largely missing. How does a GAN represent our visual world internally? What causes the artifacts in GAN results? How do architectural choices affect GAN learning? Answering such questions could enable us to develop new insights and better models.
+How does a GAN represent our visual world internally? What causes the artifacts in GAN results? How do architectural choices affect GAN learning? Answering such questions could enable us to develop new insights and better models.
+
 Authors present a general method for visualizing and understanding GANs at different levels of abstraction, from each neuron, to each object, to the contextual relationship between different objects. They first identify a group of interpretable units that are related to object concepts. Second, they directly intervene within the network to identify sets of units that cause a type of objects to disappear or appear (for example buildings have door but trees do not), since quantifying the causal effect of these units using a standard causality metric. Finally, authors examine the contextual relationship between these units and their surrounding by inserting the discovered object concepts into new images. Researchers study where they can insert object concepts in new images and how this intervention interacts with other objects in the image.
 Also, they show several practical applications enabled by the framework, from comparing internal representations across different layers, models, and datasets, to improving GANs by locating and removing artifact-causing units, to interactively manipulating objects in the scene.
+
+# Research questions
+**Despite this tremendous success, many questions remain to be answered. For example, to produce a
+church image (Figure 1a), what knowledge does a GAN need to learn? Alternatively, when a GAN
+sometimes produces terribly unrealistic images (Figure 1f), what causes the mistakes? Why does one
+GAN variant work better than another? What fundamental differences are encoded in their weights?**
+
+**In this work, we study the internal representations of GANs. To a human observer, a well-trained
+GAN appears to have learned facts about the objects in the image: for example, a door can appear on
+a building but not on a tree. We wish to understand how a GAN represents such structure. Do the
+objects emerge as pure pixel patterns without any explicit representation of objects such as doors and
+trees, or does the GAN contain internal variables that correspond to the objects that humans perceive?
+If the GAN does contain variables for doors and trees, do those variables cause the generation of
+those objects, or do they merely correlate? How are relationships between objects represented?**
+
+
 # Contribution
 This paper gives us huge understanding of GANs as well as compare, debug, modify, and reason about a GAN models. There is no theoretical contribution or any deep analysis since the paper presents a new methodological idea, which allows for nice practical contribution but it can help further researches to be significantly explicit and powerful.
 # Comment
