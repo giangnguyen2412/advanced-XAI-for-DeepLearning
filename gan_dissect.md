@@ -22,6 +22,8 @@ those objects, or do they merely correlate? How are relationships between object
 The authors firstly identify the presence of class c in a representation (activation of a layer). If the class k found, they then try to remove - insert 
 this class concept to the final image to dissect the causal effect to the final generation x. 
 
+![](https://github.com/luulinh90s/paper-review-interpretable-machine-learning/blob/master/images/GAN_Dissection.PNG)
+
 To find if the class k is in the representation or not, with an image, they do segmentation for class k, then calculate the IoU value between this segmentation and the 
 upsampled-and-threholded feature map (from r). The top classes of k will be selected.
 
