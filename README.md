@@ -9,6 +9,7 @@ A hub for paper reviews in Interpretable Deep Learning
 
 - <a name="todo"></a> SAM: The Sensitivity of Attribution Methods to Hyperparameters (**CVPR2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/SAM.md) 
 - <a name="todo"></a> Interpreting Latent Space of GANs for Semantic Face Editing (**CVPR2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/interfacegan.md) 
+- <a name="todo"></a> Image Processing Using Multi-Code GAN Prior (**CVPR2020**) - [review ](https://github.com/luulinh90s/paper-review-generative-models/blob/master/mganprior.md) 
 - <a name="todo"></a> Semantic Hierarchy Emerges in Deep Generative Representations for
 Scene Synthesis (**arXiv**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/Hi_GAN.md) 
 
