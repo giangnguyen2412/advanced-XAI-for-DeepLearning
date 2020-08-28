@@ -12,6 +12,7 @@ A hub for paper reviews in Interpretable Deep Learning
 - <a name="todo"></a> Image Processing Using Multi-Code GAN Prior (**CVPR2020**) - [review ](https://github.com/luulinh90s/paper-review-generative-models/blob/master/mganprior.md) 
 - <a name="todo"></a> Semantic Hierarchy Emerges in Deep Generative Representations for
 Scene Synthesis (**arXiv**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/Hi_GAN.md) 
+- <a name="todo"></a> Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance (**arXiv**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/gagan1.md) 
 
 ### 2019
 - <a name="todo"></a> GAN Dissection: Visualizing and Understanding Generative Adversarial Networks (**ICLR2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/gan_dissect.md) 
