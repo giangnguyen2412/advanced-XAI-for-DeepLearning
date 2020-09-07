@@ -24,3 +24,10 @@ attributions to dogs than to original pixels covered
 by dogs are false positives. False positive attributions
 of dogs have a higher chance of misleading humans
 because dogs are semantically meaningful.
+
+- In the method MP (mearningful perturbation), the modified inputs may fall outside of the training data manifold. As a result, it is
+hard to decouple whether the accuracy drop is due to
+out-of-distribution data or due to good feature attributions. Retraining, on the other hand, results in a
+model different from the original one being explained.
+We enable method evaluation on the original model
+using in-distribution inputs
