@@ -17,7 +17,8 @@ Scene Synthesis (**arXiv**) - [review ](https://github.com/luulinh90s/paper-revi
 ### 2019
 - <a name="todo"></a> GAN Dissection: Visualizing and Understanding Generative Adversarial Networks (**ICLR2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/gan_dissect.md) 
 - <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NeurIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/protoPNET.md) 
-- <a name="todo"></a> Towards Automatic Concept-based Explanations (**NeurIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/ACE.md) 
+- <a name="todo"></a> Towards Automatic Concept-based Explanations (**NeurIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/ACE.md)
+
 ### 2018
 - <a name="todo"></a> Generating Counterfactual Explanations with Natural Language (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/counterfactual.md) 
 - <a name="todo"></a> Interpretable Discovery in Large Image Data Sets (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/demud.md) 
@@ -25,6 +26,7 @@ Scene Synthesis (**arXiv**) - [review ](https://github.com/luulinh90s/paper-revi
 - <a name="todo"></a> Learning to Explain: An Information-Theoretic Perspective on Model Interpretation (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/L2X.md) 
 - <a name="todo"></a> Anchors: High-Precision Model-Agnostic Explanations (**AAAI2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/anchors.md) 
 - <a name="todo"></a> Benchmarking Attribution Methods with Relative Feature Importance (**arXiv2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/BAM.md) 
+- <a name="todo"></a> Sanity Checks for Saliency Maps (**NeuRIPS2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/sanity_checks.md) 
 ### 2017
 - <a name="todo"></a> Visualizing Deep Neural Network Decisions: Prediction Difference Analysis (**ICLR2017**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/evidence.md) 
 - <a name="todo"></a> Interpretable Deep Models for ICU Outcome Prediction (**AMIA 2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/icu_mimic.md) 
