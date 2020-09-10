@@ -34,3 +34,6 @@ tests can be thought of as **sanity checks** to perform before deploying a metho
 ## Findings
 
 - Gradients & GradCAM pass the sanity checks, while Guided BackProp & Guided GradCAM fail.
+
+- To our surprise, some widely deployed saliency methods are
+independent of both the data the model was trained on, and the model parameters. Hence, these methods are incapable of assisting with tasks that depend on the model, such as debugging the model, or tasks that depend on the relationships between inputs and outputs present in the data.
