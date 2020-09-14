@@ -13,6 +13,7 @@ A hub for paper reviews in Interpretable Deep Learning
 - <a name="todo"></a> Semantic Hierarchy Emerges in Deep Generative Representations for
 Scene Synthesis (**arXiv**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/Hi_GAN.md) 
 - <a name="todo"></a> Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance (**arXiv**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/gagan1.md) 
+- <a name="todo"></a> Shortcut Learning in Deep Neural Networks (**arXiv2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/shortcut_learning.md) 
 
 ### 2019
 Neural Networks
