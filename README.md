@@ -14,6 +14,7 @@ A hub for paper reviews in Interpretable Deep Learning
 Scene Synthesis (**arXiv**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/Hi_GAN.md) 
 - <a name="todo"></a> Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance (**arXiv**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/gagan1.md) 
 - <a name="todo"></a> Shortcut Learning in Deep Neural Networks (**arXiv2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/shortcut_learning.md) 
+- <a name="todo"></a> Are Visual Explanations Useful? A Case Study in Model-in-the-Loop Prediction (**arXiv2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/chu_paper.md) a
 
 ### 2019
 Neural Networks
