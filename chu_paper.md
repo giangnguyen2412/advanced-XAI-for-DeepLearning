@@ -98,3 +98,25 @@ if humans default to trusting all model predictions
 
 Participants shown a strong explanation rated the explanations 5.37 / 7,
 versus 5.05 and 4.71 for the spurious and random explanations.
+
+### How did humans incorporate model predictions and explanations into their decision making process?
+
+Responses to the post-survey question “How did you use
+the model’s prediction in your decision-making process?”
+provide some clues to the workings of our human-AI system. Participants in the Explain-random treatment did
+highlight the randomness of the saliency maps, with one
+saying “I took it slightly into consideration but didn’t
+weight it heavily because it looked like the model was
+picking inaccurate locations...”. However, many others
+focused simply on the accuracy of the prediction, with one
+stating “Well it did a poor job recognizing face or features
+but the ages sound mostly correct so i sort of went with
+it”. We again note, however, that faulty explanations did
+not significantly decrease trust even in the presence of
+inaccurate model predictions
+
+We also examined responses for the top 75 guessers in terms of mean error, (collective MAE of 5.19).
+Answers to how the model prediction was used were bucketed into 6 categories: (1) 10.3% ignored it,
+(2) 17.9% considered it, (3) 5.1% used it if they were unsure, (4) 28.2% used the model prediction as
+a starting point, (5) 21.8% had their own initial guess and adjusted based on the model prediction, (6)
+9.0% used the model prediction if it seemed reasonable; otherwise gave their own guess.
