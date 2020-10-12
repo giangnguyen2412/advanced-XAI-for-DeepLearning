@@ -26,7 +26,7 @@ Users are shown images from the validation and test of the APPA-REAL dataset [14
 seen by multiple users. We also balance the dataset shown to users by combining equal proportions
 of images for which the model is more accurate than previously collected human guesses (available
 in the APPA-REAL data), and vice versa. 
-## Treatments
+### Treatments
 - Baseline treatments Our two main baselines are (a) the Control treatment, in which the user
 guesses without the help of the model, and (b) the Prediction treatment, in which the user guesses
 with the model prediction shown but without an explanation shown.
@@ -47,9 +47,54 @@ bias [22] and was previously shown to work well for improving accuracy in [17]. 
 guess, show the model prediction, then ask for a final guess. The Empathetic treatment personifies
 the model as an AI named Pat, shown in Figure S1 in the appendix
 
-## Metrics
+### Metrics
 We measure and analyze four quantities: (1) the error of the user’s guess (the absolute value of the
 difference between the guess and the ground-truth age label), (2) trust (quantified as the absolute
 value of the difference between the guess and the model’s prediction), (3) the time spent making
 the guess, and (4) answers to post-survey questions on how the model prediction was used in their
 decision-making process and how reasonable the explanations seemed. 
+
+## Analysis and Results
+### How do model predictions and explanation quality affect model-in-the-loop accuracy?
+#### Participants in the Empathetic, Show Top-3 Range, and Explain-strong treatments performed best and outperformed humans without AI.
+
+The results are also a reminder of the importance of the design of the human-AI system, with
+the Empathetic and Show Top-3 Range treatments equally or more effective as our explanationbased treatments. 
+
+For example, the Empathetic
+and Explain-strong treatments both increase trust, and it could be that the former does so through an
+emotional approach while the latter does so through more logical means.
+
+Improved accuracy is not attributable to the amount of time spent making guesses
+
+#### The addition of explanations did not improve accuracy
+
+indicate the limited utility of these explanations for
+such a visual classification task. Survey responses indicate that participants did indeed examine the
+highlighted areas and focus on important features such as location-specific wrinkles, but could not
+extract information that would boost their performance.
+
+It is possible that our results would change if users were extensively trained to interpret and use the
+saliency maps, instead of only being presented with our short guide. We do note, however, that prior
+work on training users to interpret saliency map explanations in a different task did not increase
+performance when model predictions were also shown [26, 25]. We believe nevertheless that one
+broader takeaway remains the same — designers of human-AI systems should question the utility of
+pixel-level saliency explanations when designing ML-powered tools.
+
+#### The quality of explanations had little effect on accuracy
+This is likely related to how explanation quality had little
+impact on the trust participants placed in the model predictions, discussed in the following section
+
+### How does explanation quality affect human trust and understanding?
+#### Faulty explanations did not significantly decrease trust in model predictions
+
+These findings, coupled with the large differences in accuracy between the H+M- and H-M+ settings
+and the decrease in accuracy in the H+M- setting (Figure 3), raise the question to what degree humans
+can identify and ignore erroneous model predictions. For example, a model that is accurate 98% of
+the time but makes large errors in the remaining 2% can be very dangerous in a high-stakes scenario
+if humans default to trusting all model predictions
+
+#### Most participants claimed that explanations appeared reasonable, even when they were obviously not focused on faces
+
+Participants shown a strong explanation rated the explanations 5.37 / 7,
+versus 5.05 and 4.71 for the spurious and random explanations.
