@@ -5,6 +5,21 @@ I summarized an overview of interpretability methods [here](https://github.com/l
 
 A hub for paper reviews in Interpretable Deep Learning
 
+### 2021
+- ICLR 2021
+  - Attribution/saliency maps:
+    - Decoy-enhanced Saliency Maps
+    - Ablation Path Saliency
+    - Variational saliency maps for explaining model's behavior
+    - A-FMI: Learning Attributions from Deep Networks via Feature Map Importance
+
+  - Evaluating visual explanation:
+    - Exemplary Natural Images Explain CNN Activations Better than State-of-the-Art Feature Visualization
+    - Evaluations and Methods for Explanation through Robustness Analysis
+    - Investigating and Simplifying Masking-based Saliency Methods for Model Interpretability
+
+- CVPR 2021
+
 ### 2020
 
 - <a name="todo"></a> SAM: The Sensitivity of Attribution Methods to Hyperparameters (**CVPR2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/SAM.md) 
