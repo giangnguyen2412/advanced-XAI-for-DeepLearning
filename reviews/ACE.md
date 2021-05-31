@@ -1,6 +1,10 @@
 # Towards Automatic Concept-based Explanations
 
-## Summary
+## One-sentence summary
+
+Detecting important concepts (which are represented by image segments) in a object class (i.e. police logi in police van of 1000-class ImageNet).
+
+## Ideas and method
 
 
 The outline of ACE algo is as follows:
@@ -23,8 +27,11 @@ police vans using the van’s tire and the police logo.
 
 ![](https://github.com/luulinh90s/paper-review-interpretable-machine-learning/blob/master/images/ACE_exp1.PNG)
 
-- They also conducted a human experiment when they ask people to identify concepts that they think most important for recognizing an object.
+## Evaluation
 
-- Examining the importance of important concepts: To confirm the importance scores given by
-TCAV, we extend the two importance measures defined for pixel importance scores in the literature to the case of concepts:  Smallest sufficient concepts (SSC) and Smallest destroying concepts (SDC) (I did not read more on this paper from this point).
+### Human experiments
+
+- They also conducted a human experiment to asses the *Coherency* and *Meaningfulness* of concepts. Details in Sec.4.
+
+- They evaluated the *Importance* of concepts by the prediction accuracy on test examples as they add and remove important concepts.
 
