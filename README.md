@@ -2,14 +2,23 @@
 
 ## Method categorization
 
-I took this picture from [Linardatos et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824368/) to show how people are categorizing interpretability methods for Deep Learning.
+I took this picture from [Linardatos et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824368/) to show how people are categorizing interpretability methods for Deep Learning smh.
 
 ![](images/IML_method_categorization.png)
 
-Although other categorizations are reasonable as well (i.e. from [Anh Nguyen](https://github.com/anguyen8/XAI-papers), [Molnar](https://christophm.github.io/interpretable-ml-book/taxonomy-of-interpretability-methods.html), or [lopusz](https://github.com/lopusz/awesome-interpretable-machine-learning)), I'd follow this above picture to layout this hub.
+Other categorizations are reasonable as well (i.e. from [Anh Nguyen](https://github.com/anguyen8/XAI-papers), [Molnar](https://christophm.github.io/interpretable-ml-book/taxonomy-of-interpretability-methods.html), or [lopusz](https://github.com/lopusz/awesome-interpretable-machine-learning)). However, I'd like to curate my own layout.
+
+## Network conceptualization
+This line of research assigns human concepts to learned concepts of DNNs, which can make explanations more human-friendly and specific.
 
 
-### 2021
+
+- <a name="todo"></a> Network Dissection: Quantifying Interpretability of Deep Visual Representations (**CVPR2017**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/Network_dissection.md)
+- <a name="todo"></a> Towards Automatic Concept-based Explanations (**NeurIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/ACE.md)
+
+
+
+<!-- ### 2021
 - ICLR 2021
   - Attribution/saliency maps:
     - Decoy-enhanced Saliency Maps
@@ -63,4 +72,4 @@ Neural Networks
 ### 2015
 - <a name="todo"></a> Understanding Neural Networks Through Deep Visualization (**ICML2015**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/understandNN.md) 
 ### 2013
-- <a name="todo"></a> Visualizing and Understanding Convolutional Networks - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/deconvnet.md) 
+- <a name="todo"></a> Visualizing and Understanding Convolutional Networks - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/deconvnet.md)  -->
