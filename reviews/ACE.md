@@ -29,9 +29,7 @@ police vans using the van’s tire and the police logo.
 
 ## Evaluation
 
-### Human experiments
-
-- They also conducted a human experiment to asses the *Coherency* and *Meaningfulness* of concepts. Details in Sec.4.
+- They conducted a human experiment to asses the *Coherency* and *Meaningfulness* of concepts. Details in Sec.4.
 
 - They evaluated the *Importance* of concepts by the prediction accuracy on test examples as they add and remove important concepts.
 
