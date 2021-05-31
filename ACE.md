@@ -2,16 +2,6 @@
 
 ## Summary
 
-Most of the current explanation methods provide explanations through feature importance scores, which identify features that are important for each individual input.
-However, how to systematically summarize and interpret such per sample feature importance scores itself is challenging.
-In this work, they propose principles and
-desiderata for concept based explanation, which goes beyond per-sample features
-to identify higher level human-understandable concepts that apply across the entire
-dataset. They develop a new algorithm, ACE, to automatically extract visual concepts.
-
-## My summary
-
-They devised Desiderata for a Concept-based Explanation. 1) Meaningfulness 2) Coherency 3) Importance
 
 The outline of ACE algo is as follows:
 
@@ -36,9 +26,5 @@ police vans using the van’s tire and the police logo.
 - They also conducted a human experiment when they ask people to identify concepts that they think most important for recognizing an object.
 
 - Examining the importance of important concepts: To confirm the importance scores given by
-TCAV, we extend the two importance measures defined for pixel importance scores in the literature to the case of concepts:  Smallest sufficient concepts (SSC) and Smallest destroying concepts (SDC) (I did read more on this paper from this point).
+TCAV, we extend the two importance measures defined for pixel importance scores in the literature to the case of concepts:  Smallest sufficient concepts (SSC) and Smallest destroying concepts (SDC) (I did not read more on this paper from this point).
 
-## I learned more
-
-- In saliency maps, each pixel in every image is assigned an importance score for the correct
-prediction of that image typically by using the gradient of prediction with respect to each pixel.
