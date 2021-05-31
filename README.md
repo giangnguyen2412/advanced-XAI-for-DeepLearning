@@ -1,11 +1,13 @@
-# paper-review-interpretable-DL
+# A hub for paper reviews in Interpretable Deep Learning
+
+## Method categorization
 
 I took this picture from [Linardatos et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824368/) to show how people are categorizing interpretability methods for Deep Learning.
 
 ![](images/IML_method_categorization.png)
 
+Although other categorizations are reasonable as well (i.e. from [Anh Nguyen](https://github.com/anguyen8/XAI-papers), [Molnar](https://christophm.github.io/interpretable-ml-book/taxonomy-of-interpretability-methods.html), or (lopusz)(https://github.com/lopusz/awesome-interpretable-machine-learning)), I'd follow this above picture to layout this hub.
 
-A hub for paper reviews in Interpretable Deep Learning
 
 ### 2021
 - ICLR 2021
