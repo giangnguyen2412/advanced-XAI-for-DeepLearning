@@ -1,6 +1,8 @@
 # paper-review-interpretable-DL
 
-I summarized an overview of interpretability methods [here](https://github.com/luulinh90s/paper-review-interpretable-machine-learning/blob/master/overview.md).
+I took this picture from []() to show how people are categorizing interpretability methods for Deep Learning.
+
+![](https://github.com/giangnguyen2412/paper-review-interpretable-DL/images/IML_method_categorization.png)
 
 
 A hub for paper reviews in Interpretable Deep Learning
