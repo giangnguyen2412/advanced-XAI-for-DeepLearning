@@ -1,8 +1,8 @@
 # paper-review-interpretable-DL
 
-I took this picture from []() to show how people are categorizing interpretability methods for Deep Learning.
+I took this picture from [Linardatos et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824368/) to show how people are categorizing interpretability methods for Deep Learning.
 
-![](https://github.com/giangnguyen2412/paper-review-interpretable-DL/images/IML_method_categorization.png)
+![](images/IML_method_categorization.png)
 
 
 A hub for paper reviews in Interpretable Deep Learning
