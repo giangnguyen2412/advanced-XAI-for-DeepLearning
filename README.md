@@ -24,7 +24,9 @@ This line of research explains DNNs' decisions using the prototypes (or examples
 - <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/protoPNET.md)
 
 
-### Uncategorized
+### Inherently-interpretable DNNs
+This line of research turns existing black-box DNNs (e.g. VGG or ResNet) into white-box models by altering and forcing them to behave in a human understandable manner.
+
 - <a name="todo"></a> Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead (**Nature Machine Intelligence**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/rudin_nature.md)
 - <a name="todo"></a> Concept Whitening for Interpretable Image Recognition (**Nature Machine Intelligence**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/concept_whitening.md)
 - <a name="todo"></a> Exploring the cloud of variable importance for the set of all good models (**Nature Machine Intelligence**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/cloud_variable.md)
