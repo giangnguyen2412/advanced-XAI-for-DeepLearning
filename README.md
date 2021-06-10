@@ -1,4 +1,5 @@
 # This hub contains ADVANCED and PROMISING directions in XAI for Deep Neural Networks
+There has been a lot of approaches to achieve interpretability in DL, however; I only consider NEW and likely PROMISING directions here. I am open for discussion as well.
 
 ## Method categorization
 
