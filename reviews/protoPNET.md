@@ -21,4 +21,4 @@ The prototypical patches are learned by a clustering algorithm included in the f
 ## Evaluation
 They found that when adding the new prototype layer, the accuracy on deep networks (e.g. DenseNet and ResNet) does not drop but even increase. Therefore, we achieve both high prediction performance + interpretability.
 
-So far, we always believe that there is a trade-off between performance vs. interpretability -- especially with Deep neural networks (i.e. [1](https://medium.com/@erdemkalayci/the-tradeoff-in-machine-learning-accuracy-vs-explainability-fbb13914fde2)-- but this argument was countered by this paper and also a talk by [Rudin](https://www.youtube.com/watch?v=sl78EgrT4TY) (one author of this paper) 
+So far, we always believe that there is a trade-off between performance vs. interpretability -- especially with Deep neural networks (i.e. [here](https://medium.com/@erdemkalayci/the-tradeoff-in-machine-learning-accuracy-vs-explainability-fbb13914fde2) -- but this argument was countered by this paper and also a talk by [Rudin](https://www.youtube.com/watch?v=sl78EgrT4TY) (one author of this paper).
