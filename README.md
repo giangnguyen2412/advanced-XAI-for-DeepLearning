@@ -10,7 +10,7 @@ Other categorizations are reasonable as well (i.e. from [Anh Nguyen](https://git
 
 I also like this [distinction](https://www.youtube.com/watch?v=sl78EgrT4TY)(1:45) between Explainable ML and Interpretable ML by Rudin Cynthia.
 
-## Network conceptualization
+### Network conceptualization
 This line of research assigns human concepts to learned concepts of DNNs, which can make explanations more human-friendly and specific. Here I just picked a few representative papers, please contribute if any.
 
 
@@ -18,15 +18,13 @@ This line of research assigns human concepts to learned concepts of DNNs, which 
 - <a name="todo"></a> Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV) (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/TCAV.md)
 - <a name="todo"></a> Towards Automatic Concept-based Explanations (**NeurIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/ACE.md)
 
-## Prototype-based explanations
+### Prototype-based explanations
 This line of research explains DNNs' decisions using the prototypes (or examples). Hence, it is inherently difficult to evaluate approaches quantitatively.
 
 - <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/protoPNET.md)
 
 
-## Uncategorized
-
-
+### Uncategorized
 - <a name="todo"></a> Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead (**Nature Machine Intelligence**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/rudin_nature.md)
 - <a name="todo"></a> Concept Whitening for Interpretable Image Recognition (**Nature Machine Intelligence**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/concept_whitening.md)
 
