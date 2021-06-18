@@ -21,4 +21,6 @@ The prototypical patches are learned by a clustering algorithm included in the f
 ## Evaluation
 They found that when adding the new prototype layer, the accuracy on deep networks (e.g. DenseNet and ResNet) does not drop but even increase. Therefore, we achieve both high prediction performance + interpretability.
 
+Very interestingly, they extended this work for mamography (breast cancer detection) - IAIA-BL. In this work, they not ony classified a scan to benign and malignant, but they decomposed each of them to more specific results (e.g. circumscribled margin).
+
 So far, we always believe that there is a trade-off between performance vs. interpretability -- especially with Deep neural networks (i.e. [here](https://medium.com/@erdemkalayci/the-tradeoff-in-machine-learning-accuracy-vs-explainability-fbb13914fde2) -- but this argument was countered by this paper and also a talk by [Rudin](https://www.youtube.com/watch?v=sl78EgrT4TY) (one author of this paper).

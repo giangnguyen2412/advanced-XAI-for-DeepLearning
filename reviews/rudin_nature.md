@@ -8,4 +8,9 @@
 
 ## Ideas and method
 
+- Tabular data: decision trees, linear/additive models/scoring systems
+- Raw data (text, image, sound wave): interpretable neural networks
+
 ## Evaluation
+
+- N/A
