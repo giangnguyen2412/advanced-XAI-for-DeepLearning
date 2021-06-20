@@ -33,6 +33,14 @@ This line of research turns existing black-box DNNs (e.g. VGG or ResNet) into wh
 - <a name="todo"></a> Exploring the cloud of variable importance for the set of all good models (**Nature Machine Intelligence**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/cloud_variable.md)
 - <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/protoPNET.md)
 
+### Evaluation of explanations on down-stream tasks
+
+- <a name="todo"></a> The effectiveness of feature attribution methods and
+its correlation with automatic evaluation scores (**arxiv2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/anhnguyen_effect.md)
+
+- <a name="todo"></a> Explainable AI for Natural Adversarial Images (**ICLR2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/xai_adv_evaluation.md)
+
+
 <!-- ### 2021
 - ICLR 2021
   - Attribution/saliency maps:
