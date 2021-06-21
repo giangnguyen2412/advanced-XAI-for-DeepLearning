@@ -1,11 +1,22 @@
 # This hub contains ADVANCED and PROMISING directions in XAI for Deep Neural Networks
 There has been a lot of approaches to achieve interpretability in DL; however, there are only few research directions that are promising in 2021. Therefore, I only consider NEW and likely PROMISING directions here. 
 
-## Method categorization
+## Categories
 
-I took this picture from [Linardatos et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824368/) to show how people are categorizing interpretability methods for Deep Learning smh.
+<!-- I took this picture from [Linardatos et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824368/) to show how people are categorizing interpretability methods for Deep Learning smh.
 
-![](images/IML_method_categorization.png)
+![](images/IML_method_categorization.png) -->
+Below is the layout of this hub:
+
+- Network conceptualization
+
+- Prototype-based explanations
+
+- Inherently-interpretable DNNs
+
+- Evaluation of explanations on down-stream tasks
+
+
 
 Other categorizations are reasonable as well (i.e. from [Anh Nguyen](https://github.com/anguyen8/XAI-papers), [Molnar](https://christophm.github.io/interpretable-ml-book/taxonomy-of-interpretability-methods.html), or [lopusz](https://github.com/lopusz/awesome-interpretable-machine-learning)). However, I'd like to curate my own layout.
 
@@ -34,6 +45,7 @@ This line of research turns existing black-box DNNs (e.g. VGG or ResNet) into wh
 - <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/protoPNET.md)
 
 ### Evaluation of explanations on down-stream tasks
+As humans being the target end-users of explanations, this line of research investigates the actual effectiveness of explanations to humans in various decision-making tasks.
 
 - <a name="todo"></a> The effectiveness of feature attribution methods and
 its correlation with automatic evaluation scores (**arxiv2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/anhnguyen_effect.md)
