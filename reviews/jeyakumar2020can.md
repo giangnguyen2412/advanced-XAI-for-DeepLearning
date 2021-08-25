@@ -9,3 +9,7 @@ This paper surveys the preference of lay-users to explanation methods across 4 d
 The experiment design is simpler than [1](https://arxiv.org/abs/2105.14944) but straightforward and easy to reproduce. When these two works are very close, it would be nice to study the correlation between the correlation vs. effectiveness of an explanation method.
 
 ## Evaluation
+
+## What to do next?
+
+The future work could be a study of the correlation between lay-user preference vs. down-stream utility.
