@@ -6,7 +6,9 @@ This paper surveys the preference of lay-users to explanation methods across 4 d
 
 ## Ideas and method
 
-The experiment design is simpler than [1](https://arxiv.org/abs/2105.14944) but straightforward and easy to reproduce. When these two works are very close, it would be nice to study the correlation between the correlation vs. effectiveness of an explanation method.
+The experiment design is simpler than [1](https://arxiv.org/abs/2105.14944) but straightforward and easy to reproduce. When these two works are very close, it would be nice to study the correlation between the correlation vs. effectiveness of an explanation method. 
+
+I do like the review from R3 [here](https://proceedings.neurips.cc/paper/2020/file/2c29d89cc56cdb191c60db2f0bae796b-Review.html). He/she pointed out all the weaknesses of this paper. Highly recommend you to red.
 
 ## Evaluation
 
