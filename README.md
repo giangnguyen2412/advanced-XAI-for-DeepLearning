@@ -60,7 +60,10 @@ With and Without Humans In the Loop Are Not Correlated (**ICMLW2021**) - [review
 - <a name="todo"></a> How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods (**NeurIPS2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/jeyakumar2020can.md)
 
 
+## Human-in-the-loop for ML improvements
+This direction involves humans in the process of building/training ML models to improve their capacity. It is not necessarily related to XAI and could be moved out in the future. 
 
+- <a name="todo"></a> Improving image generative models with human interactions (**arxiv2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/lampinen2017improving.md)
 
 
 
