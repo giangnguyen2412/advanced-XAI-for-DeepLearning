@@ -48,7 +48,7 @@ This line of research turns existing black-box DNNs (e.g. VGG or ResNet) into wh
 As humans being the target end-users of explanations, this line of research investigates the actual effectiveness of explanations to humans in various decision-making tasks.
 
 - <a name="todo"></a> The effectiveness of feature attribution methods and
-its correlation with automatic evaluation scores (**arxiv2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/anhnguyen_effect.md)
+its correlation with automatic evaluation scores (**NeurIPS2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/anhnguyen_effect.md)
 
 - <a name="todo"></a> Explainable AI for Natural Adversarial Images (**ICLR2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/xai_adv_evaluation.md)
 
