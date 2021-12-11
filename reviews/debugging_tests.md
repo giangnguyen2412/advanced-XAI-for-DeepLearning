@@ -8,7 +8,7 @@ This paper assesses explanation methods' ability to: detect spurious correlation
 
 This paper and [Giang's paper](https://arxiv.org/abs/2105.14944) are closely related. While Giang's was also trying to use attribution maps to help users debug OOD inputs (i.e. adversarial examples) in **test** time, Giang's additionally concerns about how attributions maps help users improve human accuracy in AI-human decision making. 
 
-Same with Giang's, this paper strongly focuses on **feature attribution methods**.
+Same with Giang's, this paper strongly focuses on **feature attribution methods**.	
 
 ## Ideas and method
 

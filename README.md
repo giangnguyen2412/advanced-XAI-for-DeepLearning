@@ -35,6 +35,9 @@ This line of research explains DNNs' decisions using the prototypes (or examples
 
 - <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/protoPNET.md)
 
+- <a name="todo"></a> Explaining Latent Representations with a Corpus of Examples (**NeurIPS2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/SimplEx.md)
+
+
 
 ### Inherently-interpretable DNNs
 This line of research turns existing black-box DNNs (e.g. VGG or ResNet) into white-box models by altering and forcing them to behave in a human understandable manner.
@@ -49,6 +52,9 @@ As humans being the target end-users of explanations, this line of research inve
 
 - <a name="todo"></a> The effectiveness of feature attribution methods and
 its correlation with automatic evaluation scores (**NeurIPS2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/anhnguyen_effect.md)
+
+- <a name="todo"></a> How Well do Feature Visualizations Support Causal Understanding of CNN Activations? (**NeurIPS2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/cantpredict_dontunderstand.md)
+
 
 - <a name="todo"></a> Explainable AI for Natural Adversarial Images (**ICLR2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/xai_adv_evaluation.md)
 
