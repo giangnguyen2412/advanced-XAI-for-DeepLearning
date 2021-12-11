@@ -13,13 +13,13 @@ This paper proposes a human-centered framework to evaluate attribution methods b
 
 The image below show their experiment:
 
-![](https://github.com/luulinh90s/paper-review-interpretable-machine-learning/blob/master/images/fel_etal1.PNG)
+![](https://github.com/luulinh90s/paper-review-interpretable-machine-learning/blob/master/images/fel_etal1.png)
 
 In my own words, they first train users using a triple (image, explanation, AI's prediction) K times and then ask them to perform a **binary** classification task (e.g. Kit Fox vs. Red Fox).
 
 The image below may capture the best their 3 tasks.
 
-![](https://github.com/luulinh90s/paper-review-interpretable-machine-learning/blob/master/images/fel_etal2.PNG)
+![](https://github.com/luulinh90s/paper-review-interpretable-machine-learning/blob/master/images/fel_etal2.png)
 
 
 ## Evaluation
