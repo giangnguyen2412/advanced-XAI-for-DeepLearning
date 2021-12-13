@@ -31,8 +31,10 @@ Because:
  - It bridged cognitive sciences vs. deep learning. A lot of human behavioral tasks were adopted to validate AI's perception.
 
  - This paper created human attention maps which can be used as the ground truth for feature attribution method research.
- 
+
  - Very thoughtful and super extensive experiments (most ever seen for me).
+
+ I think that we may rebuild the **feature attribution research** community based on this work.
 
 
 ### Network conceptualization
