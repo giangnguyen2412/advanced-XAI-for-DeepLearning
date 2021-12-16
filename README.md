@@ -22,20 +22,6 @@ Other categorizations are reasonable as well (i.e. from [Anh Nguyen](https://git
 
 I also like this [distinction](https://www.youtube.com/watch?v=sl78EgrT4TY)(1:45) between Explainable ML and Interpretable ML by Rudin Cynthia.
 
-One paper I found the most interesting and really stand out from the crowd is: 
-
-<a name="todo"></a> Passive attention in artificial neural networks predicts human visual selectivity (**Oral@NeurIPS2021**))
-
-Because:
- 
- - It bridged cognitive sciences vs. deep learning. A lot of human behavioral tasks were adopted to validate AI's perception.
-
- - This paper created human attention maps which can be used as the ground truth for feature attribution method research.
-
- - Very thoughtful and super extensive experiments (most ever seen for me).
-
- I think that we may rebuild the **feature attribution research** community based on this work.
-
 
 ### Network conceptualization
 This line of research assigns human concepts to learned concepts of DNNs, which can make explanations more human-friendly and specific. Here I just picked a few representative papers, please contribute if any.
@@ -50,7 +36,8 @@ This line of research explains DNNs' decisions using the prototypes (or examples
 
 - <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/protoPNET.md)
 
-- <a name="todo"></a> Explaining Latent Representations with a Corpus of Examples (**NeurIPS2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/SimplEx.md)
+- <a name="todo"></a> Explaining Latent Representations with a Corpus of Examples (**NeurIPS2021**)
+ <!-- - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/SimplEx.md) -->
 
 
 
@@ -84,16 +71,13 @@ With and Without Humans In the Loop Are Not Correlated (**ICMLW2021**) - [review
 
 - <a name="todo"></a> What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods (**arXiv2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/cantpredict_dontunderstand.md)
 
-
 - <a name="todo"></a> HIVE: Evaluating the Human Interpretability of Visual Explanations (**arXiv2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/HIVE.md)
 
 
-## Human-in-the-loop for ML improvements
-This direction involves humans in the process of building/training ML models to improve their capacity. It is not necessarily related to XAI and could be moved out in the future. 
+## Human vs. machine perception
+This line of research compares machine perception vs. human perception using machine explanations.
 
-- <a name="todo"></a> Improving image generative models with human interactions (**arxiv2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/lampinen2017improving.md)
-
-
+- <a name="todo"></a> Passive attention in artificial neural networks predicts human visual selectivity (**NeurIPS2021**)) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/IBG_vs_human_perception.md)
 
 
 
