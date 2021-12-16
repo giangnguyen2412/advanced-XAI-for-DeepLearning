@@ -12,6 +12,8 @@
 
  I made a slide for this paper [here](https://docs.google.com/presentation/d/11hMqV6WgxjnwhnzTdk_FDI_hcOu9he7T/edit?usp=sharing&ouid=106754253201604804412&rtpof=true&sd=true).
 
+ This paper also presents the distinction of passive and active explanations which is interesting and I think they are the first to coin this term.
+
 ## Ideas and method
 
 ## Evaluation

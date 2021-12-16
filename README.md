@@ -77,7 +77,7 @@ With and Without Humans In the Loop Are Not Correlated (**ICMLW2021**) - [review
 ## Human vs. machine perception
 This line of research compares machine perception vs. human perception using machine explanations.
 
-- <a name="todo"></a> Passive attention in artificial neural networks predicts human visual selectivity (**NeurIPS2021**)) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/IBG_vs_human_perception.md)
+- <a name="todo"></a> Passive attention in artificial neural networks predicts human visual selectivity (**NeurIPS2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/IBG_vs_human_perception.md)
 
 
 
