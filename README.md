@@ -60,7 +60,9 @@ its correlation with automatic evaluation scores (**NeurIPS2021**) - [review ](h
 
 - <a name="todo"></a> Explainable AI for Natural Adversarial Images (**ICLR2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/xai_adv_evaluation.md)
 
-- <a name="todo"></a> Evaluation of Saliency-based Explainability Methods (**ICMLW2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/NA.md) 
+- <a name="todo"></a> Evaluation of Saliency-based Explainability Methods (**ICMLW2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/saliency_evaluation.md) 
+
+- <a name="todo"></a> Crowdsourcing Evaluation of Saliency-based XAI Methods (**PKDD2021**)
 
 - <a name="todo"></a> Quality Metrics for Transparent Machine Learning
 With and Without Humans In the Loop Are Not Correlated (**ICMLW2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/NA.md) 
@@ -72,6 +74,8 @@ With and Without Humans In the Loop Are Not Correlated (**ICMLW2021**) - [review
 - <a name="todo"></a> What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods (**arXiv2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/cantpredict_dontunderstand.md)
 
 - <a name="todo"></a> HIVE: Evaluating the Human Interpretability of Visual Explanations (**arXiv2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/HIVE.md)
+
+- <a name="todo"></a> Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation (**Submitted to ICLR2022**)
 
 
 ## Human vs. machine perception

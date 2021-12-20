@@ -36,6 +36,8 @@ They actually have 4 options for each trial, then the baseline here is 25%.
 
 - Agreement: do you agree with the explanation? This task is to see if users agree with AI's explanations, which will be useful if users fail the ```Distinction``` task.
 
+Although we still have 4 options, but the baseline here is 50% as authors only count correct/wrong.
+
 
 ## Evaluation
 
