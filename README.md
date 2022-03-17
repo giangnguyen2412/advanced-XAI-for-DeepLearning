@@ -75,7 +75,7 @@ With and Without Humans In the Loop Are Not Correlated (**ICMLW2021**) - [review
 
 - <a name="todo"></a> HIVE: Evaluating the Human Interpretability of Visual Explanations (**arXiv2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/HIVE.md)
 
-- <a name="todo"></a> Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation (**Submitted to ICLR2022**)
+- <a name="todo"></a> Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation (**ICLR2022**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/spurious_signal.md)
 
 
 ## Human vs. machine perception
