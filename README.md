@@ -30,6 +30,8 @@ This line of research assigns human concepts to learned concepts of DNNs, which 
 - <a name="todo"></a> Network Dissection: Quantifying Interpretability of Deep Visual Representations (**CVPR2017**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/Network_dissection.md)
 - <a name="todo"></a> Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV) (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/TCAV.md)
 - <a name="todo"></a> Towards Automatic Concept-based Explanations (**NeurIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/ACE.md)
+- <a name="todo"></a> NATURAL LANGUAGE DESCRIPTIONS OF DEEP VISUAL FEATURES (**ICLR2022**) - [review ]()
+
 
 ### Prototype-based explanations
 This line of research explains DNNs' decisions using the prototypes (or examples). Hence, it is inherently difficult to evaluate approaches quantitatively.
