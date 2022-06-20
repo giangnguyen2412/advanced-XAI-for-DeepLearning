@@ -30,7 +30,8 @@ This line of research assigns human concepts to learned concepts of DNNs, which 
 - <a name="todo"></a> Network Dissection: Quantifying Interpretability of Deep Visual Representations (**CVPR2017**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/Network_dissection.md)
 - <a name="todo"></a> Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV) (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/TCAV.md)
 - <a name="todo"></a> Towards Automatic Concept-based Explanations (**NeurIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/ACE.md)
-- <a name="todo"></a> NATURAL LANGUAGE DESCRIPTIONS OF DEEP VISUAL FEATURES (**ICLR2022**) - [review ]()
+- <a name="todo"></a> MILAN - Natural Language Descriptions of Deep Visual Features (**ICLR2022**) - [paper](https://arxiv.org/pdf/2201.11114.pdf)
+- <a name="todo"></a> LAVISE - Explaining Deep Convolutional Neural Networks via Unsupervised Visual-Semantic Filter Attention (**CVPR2022**) - [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Explaining_Deep_Convolutional_Neural_Networks_via_Latent_Visual-Semantic_Filter_Attention_CVPR_2022_paper.pdf)
 
 
 ### Prototype-based explanations
