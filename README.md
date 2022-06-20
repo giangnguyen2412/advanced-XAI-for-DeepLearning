@@ -32,6 +32,7 @@ This line of research assigns human concepts to learned concepts of DNNs, which 
 - <a name="todo"></a> Towards Automatic Concept-based Explanations (**NeurIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/ACE.md)
 - <a name="todo"></a> MILAN - Natural Language Descriptions of Deep Visual Features (**ICLR2022**) - [paper](https://arxiv.org/pdf/2201.11114.pdf)
 - <a name="todo"></a> LAVISE - Explaining Deep Convolutional Neural Networks via Unsupervised Visual-Semantic Filter Attention (**CVPR2022**) - [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Explaining_Deep_Convolutional_Neural_Networks_via_Latent_Visual-Semantic_Filter_Attention_CVPR_2022_paper.pdf)
+- <a name="todo"></a> DISSECT: Disentangled Simultaneous Explanations via Concept Traversals (**ICLR2022**) - [paper](https://arxiv.org/pdf/2105.15164.pdf)
 
 
 ### Prototype-based explanations
