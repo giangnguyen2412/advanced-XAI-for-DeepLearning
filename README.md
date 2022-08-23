@@ -52,6 +52,9 @@ This line of research turns existing black-box DNNs (e.g. VGG or ResNet) into wh
 - <a name="todo"></a> Concept Whitening for Interpretable Image Recognition (**Nature Machine Intelligence**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/concept_whitening.md)
 - <a name="todo"></a> Exploring the cloud of variable importance for the set of all good models (**Nature Machine Intelligence**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/cloud_variable.md)
 - <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/protoPNET.md)
+- <a name="todo"></a> Visual correspondence-based explanations improve AI robustness and human-AI team accuracy (**CVPRW2022**) - [paper](https://arxiv.org/pdf/2208.00780.pdf)
+- <a name="todo"></a> B-cos Networks: Alignment is All We Need for Interpretability (**CVPR2022**) - [paper](https://arxiv.org/pdf/2205.10268.pdf)
+- <a name="todo"></a> Neural Additive Models: Interpretable Machine Learning with Neural Nets (**NeurIPS2021**) - [paper](https://arxiv.org/pdf/2004.13912.pdf)
 
 ### Evaluation of explanations on down-stream tasks
 As humans being the target end-users of explanations, this line of research investigates the actual effectiveness of explanations to humans in various decision-making tasks.
