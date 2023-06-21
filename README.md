@@ -47,11 +47,8 @@ This line of research explains DNNs' decisions using the prototypes (or examples
 - <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/protoPNET.md)
 
 - <a name="todo"></a> Explaining Latent Representations with a Corpus of Examples (**NeurIPS2021**)
- <!-- - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/SimplEx.md)
 
  - A Flexible Nadaraya-Watson Head Can Offer Explainable and Calibrated Classification (Trans. Mach. Learn. Res. 2022)
-
- - 
 
 
 
