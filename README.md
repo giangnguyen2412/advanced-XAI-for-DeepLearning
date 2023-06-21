@@ -34,6 +34,12 @@ This line of research assigns human concepts to learned concepts of DNNs, which 
 - <a name="todo"></a> LAVISE - Explaining Deep Convolutional Neural Networks via Unsupervised Visual-Semantic Filter Attention (**CVPR2022**) - [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Explaining_Deep_Convolutional_Neural_Networks_via_Latent_Visual-Semantic_Filter_Attention_CVPR_2022_paper.pdf)
 - <a name="todo"></a> DISSECT: Disentangled Simultaneous Explanations via Concept Traversals (**ICLR2022**) - [paper](https://arxiv.org/pdf/2105.15164.pdf)
 
+- Craft: Concept recursive activation factorization for explainability
+  
+- A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation
+  
+- COCKATIEL: COntinuous Concept ranKed ATtribution with Interpretable ELements for explaining neural net classifiers on NLP tasks
+
 
 ### Prototype-based explanations
 This line of research explains DNNs' decisions using the prototypes (or examples). Hence, it is inherently difficult to evaluate approaches quantitatively.
@@ -41,7 +47,11 @@ This line of research explains DNNs' decisions using the prototypes (or examples
 - <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/protoPNET.md)
 
 - <a name="todo"></a> Explaining Latent Representations with a Corpus of Examples (**NeurIPS2021**)
- <!-- - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/SimplEx.md) -->
+ <!-- - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/SimplEx.md)
+
+ - A Flexible Nadaraya-Watson Head Can Offer Explainable and Calibrated Classification (Trans. Mach. Learn. Res. 2022)
+
+ - 
 
 
 
