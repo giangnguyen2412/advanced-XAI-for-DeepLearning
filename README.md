@@ -86,6 +86,17 @@ With and Without Humans In the Loop Are Not Correlated (**ICMLW2021**) - [review
 
 - <a name="todo"></a> Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation (**ICLR2022**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/spurious_signal.md)
 
+- Graphical Perception of Saliency-based Model Explanations, https://dl.acm.org/doi/pdf/10.1145/3544548.3581320
+
+- Humans, AI, and Context: Understanding End-Users’ Trust in a Real-World Computer Vision Application, https://dl.acm.org/doi/pdf/10.1145/3593013.3593978
+
+- A user interface to communicate interpretable AI decisions to radiologists, https://spie.org/Publications/Proceedings/Paper/10.1117/12.2654068?SSO=1
+
+- Help Me Help the AI": Understanding How Explainability Can Support Human-AI Interaction, https://dl.acm.org/doi/abs/10.1145/3544548.3581001
+  
+- Interpretable deep learning models for better clinician-AI communication in clinical mammography, https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/1203507/Interpretable-deep-learning-models-for-better-clinician-AI-communication-in/10.1117/12.2612372.full
+
+- The XAI Alignment Problem: Rethinking How Should We Evaluate Human-Centered AI Explainability Techniques, https://arxiv.org/abs/2303.17707.
 
 ## Human vs. machine perception
 This line of research compares machine perception vs. human perception using machine explanations.
