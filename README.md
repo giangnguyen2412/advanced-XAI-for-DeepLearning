@@ -55,6 +55,8 @@ This line of research explains DNNs' decisions using the prototypes (or examples
 ### Inherently-interpretable DNNs
 This line of research turns existing black-box DNNs (e.g. VGG or ResNet) into white-box models by altering and forcing them to behave in a human understandable manner.
 
+- [SEEING IS BELIEVING: BRAIN-INSPIRED MODULAR TRAINING FOR MECHANISTIC INTERPRETABILITY](https://kindxiaoming.github.io/pdfs/BIMT.pdf)
+
 - <a name="todo"></a> Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead (**Nature Machine Intelligence**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/rudin_nature.md)
 - <a name="todo"></a> Concept Whitening for Interpretable Image Recognition (**Nature Machine Intelligence**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/concept_whitening.md)
 - <a name="todo"></a> Exploring the cloud of variable importance for the set of all good models (**Nature Machine Intelligence**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/cloud_variable.md)
@@ -65,6 +67,10 @@ This line of research turns existing black-box DNNs (e.g. VGG or ResNet) into wh
 
 ### Evaluation of explanations on down-stream tasks
 As humans being the target end-users of explanations, this line of research investigates the actual effectiveness of explanations to humans in various decision-making tasks.
+
+- [Selective Explanations: Leveraging Human Input to Align Explainable AI](https://twitter.com/vivwylai/status/1663948166721576960)
+
+- [Machine Explanations and Human Understanding](https://twitter.com/chachaachen/status/1667218329885618176)
 
 - <a name="todo"></a> Visual correspondence-based explanations improve AI robustness and human-AI team accuracy (**NeurIPS2022**) - [paper](https://arxiv.org/pdf/2208.00780.pdf)
 
