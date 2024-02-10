@@ -16,6 +16,8 @@ Below is the layout of this hub:
 
 - Evaluation of explanations on down-stream tasks
 
+- Interpreting Large Foundation Models (LLMs)
+
 
 
 Other categorizations are reasonable as well (i.e. from [Anh Nguyen](https://github.com/anguyen8/XAI-papers), [Molnar](https://christophm.github.io/interpretable-ml-book/taxonomy-of-interpretability-methods.html), or [lopusz](https://github.com/lopusz/awesome-interpretable-machine-learning)). However, I'd like to curate my own layout.
@@ -26,6 +28,9 @@ I also like this [distinction](https://www.youtube.com/watch?v=sl78EgrT4TY)(1:45
 ### Network conceptualization
 This line of research assigns human concepts to learned concepts of DNNs, which can make explanations more human-friendly and specific. Here I just picked a few representative papers, please contribute if any.
 
+- Concept Bottleneck Models https://proceedings.mlr.press/v119/koh20a.html
+- Codebook Features: Sparse and Discrete Interpretability for Neural Networks https://arxiv.org/pdf/2310.17230.pdf
+- Backpack Language Models https://arxiv.org/abs/2305.16765
 
 - <a name="todo"></a> Network Dissection: Quantifying Interpretability of Deep Visual Representations (**CVPR2017**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/Network_dissection.md)
 - <a name="todo"></a> Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV) (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/TCAV.md)
@@ -34,6 +39,8 @@ This line of research assigns human concepts to learned concepts of DNNs, which 
 - <a name="todo"></a> LAVISE - Explaining Deep Convolutional Neural Networks via Unsupervised Visual-Semantic Filter Attention (**CVPR2022**) - [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Explaining_Deep_Convolutional_Neural_Networks_via_Latent_Visual-Semantic_Filter_Attention_CVPR_2022_paper.pdf)
 - <a name="todo"></a> DISSECT: Disentangled Simultaneous Explanations via Concept Traversals (**ICLR2022**) - [paper](https://arxiv.org/pdf/2105.15164.pdf)
 
+The following works try to mine learned concepts from pretrained models:
+
 - Craft: Concept recursive activation factorization for explainability
   
 - A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation
@@ -41,14 +48,17 @@ This line of research assigns human concepts to learned concepts of DNNs, which 
 - COCKATIEL: COntinuous Concept ranKed ATtribution with Interpretable ELements for explaining neural net classifiers on NLP tasks
 
 
+
 ### Prototype-based explanations
 This line of research explains DNNs' decisions using the prototypes (or examples). Hence, it is inherently difficult to evaluate approaches quantitatively.
 
 - <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/protoPNET.md)
-
+- This Looks Like It Rather Than That: ProtoKNN For Similarity-Based Classifiers https://openreview.net/forum?id=lh-HRYxuoRr
+- Neural Prototype Trees for Interpretable Fine-grained Image Recognition https://arxiv.org/abs/2012.02046 
 - <a name="todo"></a> Explaining Latent Representations with a Corpus of Examples (**NeurIPS2021**)
-
  - A Flexible Nadaraya-Watson Head Can Offer Explainable and Calibrated Classification (Trans. Mach. Learn. Res. 2022)
+ - Visual correspondence-based explanations improve AI robustness and human-AI team accuracy https://arxiv.org/abs/2208.00780
+ - AdvisingNets: Learning to Distinguish Correct and Wrong Classifications via Nearest-Neighbor Explanations https://arxiv.org/pdf/2308.13651.pdf
 
 
 
@@ -111,65 +121,15 @@ With and Without Humans In the Loop Are Not Correlated (**ICMLW2021**) - [review
 
 - The XAI Alignment Problem: Rethinking How Should We Evaluate Human-Centered AI Explainability Techniques, https://arxiv.org/abs/2303.17707.
 
+- AdvisingNets: Learning to Distinguish Correct and Wrong Classifications via Nearest-Neighbor Explanations https://arxiv.org/pdf/2308.13651.pdf
+
 ## Human vs. machine perception
 This line of research compares machine perception vs. human perception using machine explanations.
 
 - <a name="todo"></a> Passive attention in artificial neural networks predicts human visual selectivity (**NeurIPS2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/IBG_vs_human_perception.md)
 
+## Interpreting Large Foundation Models
+- Rethinking Interpretability in the Era of Large Language Models, https://arxiv.org/html/2402.01761v1
+- Towards Monosemanticity: Decomposing Language Models With Dictionary Learning https://transformer-circuits.pub/2023/monosemantic-features
 
 
-<!-- ### 2021
-- ICLR 2021
-  - Attribution/saliency maps:
-    - Decoy-enhanced Saliency Maps
-    - Ablation Path Saliency
-    - Variational saliency maps for explaining model's behavior
-    - A-FMI: Learning Attributions from Deep Networks via Feature Map Importance
-
-  - Evaluating visual explanation:
-    - Exemplary Natural Images Explain CNN Activations Better than State-of-the-Art Feature Visualization
-    - Evaluations and Methods for Explanation through Robustness Analysis
-    - Investigating and Simplifying Masking-based Saliency Methods for Model Interpretability
-
-- CVPR 2021
-
-### 2020
-
-- <a name="todo"></a> SAM: The Sensitivity of Attribution Methods to Hyperparameters (**CVPR2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/SAM.md) 
-- <a name="todo"></a> Interpreting Latent Space of GANs for Semantic Face Editing (**CVPR2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/interfacegan.md) 
-- <a name="todo"></a> Image Processing Using Multi-Code GAN Prior (**CVPR2020**) - [review ](https://github.com/luulinh90s/paper-review-generative-models/blob/master/mganprior.md) 
-- <a name="todo"></a> Semantic Hierarchy Emerges in Deep Generative Representations for
-Scene Synthesis (**arXiv**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/Hi_GAN.md) 
-- <a name="todo"></a> Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance (**arXiv**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/gagan1.md) 
-- <a name="todo"></a> Shortcut Learning in Deep Neural Networks (**arXiv2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/shortcut_learning.md)
-- <a name="todo"></a> Are Visual Explanations Useful? A Case Study in Model-in-the-Loop Prediction (**arXiv2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/chu_paper.md)
-- <a name="todo"></a> How Useful Are the Machine-Generated Interpretations to General Users? A Human Evaluation on Guessing the Incorrectly Predicted Labels (**arXiv2020**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/shen_paper.md)
-
-
-### 2019
-Neural Networks
-- <a name="todo"></a> GAN Dissection: Visualizing and Understanding Generative Adversarial Networks (**ICLR2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/gan_dissect.md) 
-- <a name="todo"></a> This Looks Like That: Deep Learning for Interpretable Image Recognition (**NeurIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/protoPNET.md) 
-- <a name="todo"></a> Towards Automatic Concept-based Explanations (**NeurIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/ACE.md)
-- <a name="todo"></a> A Benchmark for Interpretability Methods in Deep Neural Networks (**NeurIPS2019**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/ROAR.md)
-### 2018
-- <a name="todo"></a> Generating Counterfactual Explanations with Natural Language (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/counterfactual.md) 
-- <a name="todo"></a> Interpretable Discovery in Large Image Data Sets (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/demud.md) 
-- <a name="todo"></a> Towards Providing Explanations for AI Planner Decisions (**IJCAI/ECAI2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/XAI-plan.md) 
-- <a name="todo"></a> Learning to Explain: An Information-Theoretic Perspective on Model Interpretation (**ICML2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/L2X.md) 
-- <a name="todo"></a> Anchors: High-Precision Model-Agnostic Explanations (**AAAI2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/anchors.md) 
-- <a name="todo"></a> Benchmarking Attribution Methods with Relative Feature Importance (**arXiv2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/BAM.md) 
-- <a name="todo"></a> Sanity Checks for Saliency Maps (**NeuRIPS2018**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/sanity_checks.md) 
-### 2017
-- <a name="todo"></a> Visualizing Deep Neural Network Decisions: Prediction Difference Analysis (**ICLR2017**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/evidence.md) 
-- <a name="todo"></a> Interpretable Deep Models for ICU Outcome Prediction (**AMIA 2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/icu_mimic.md) 
-### 2016
-- <a name="todo"></a> Examples are not enough, learn to criticize! Criticism for Interpretability (**NIPS2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/MMD-critic.md) 
-- <a name="todo"></a> The Mythos of Model Interpretability (**ICML2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/mythos.md) 
-- <a name="todo"></a> Deep Neural Decision Forests (**IJCAI2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/forests.md) 
-- <a name="todo"></a> InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (**NIPS2016**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/info_gan.md) 
-- <a name="todo"></a> "Why Should I Trust You?": Explaining the Predictions of Any Classifier (**arXiv**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/lime.md) 
-### 2015
-- <a name="todo"></a> Understanding Neural Networks Through Deep Visualization (**ICML2015**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/understandNN.md) 
-### 2013
-- <a name="todo"></a> Visualizing and Understanding Convolutional Networks - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/deconvnet.md)  -->
