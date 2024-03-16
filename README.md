@@ -18,6 +18,8 @@ Below is the layout of this hub:
 
 - Interpreting Large Foundation Models (LLMs)
 
+- Interactive XAI
+
 
 
 Other categorizations are reasonable as well (i.e. from [Anh Nguyen](https://github.com/anguyen8/XAI-papers), [Molnar](https://christophm.github.io/interpretable-ml-book/taxonomy-of-interpretability-methods.html), or [lopusz](https://github.com/lopusz/awesome-interpretable-machine-learning)). However, I'd like to curate my own layout.
@@ -123,13 +125,23 @@ With and Without Humans In the Loop Are Not Correlated (**ICMLW2021**) - [review
 
 - AdvisingNets: Learning to Distinguish Correct and Wrong Classifications via Nearest-Neighbor Explanations https://arxiv.org/pdf/2308.13651.pdf
 
+<!--
 ## Human vs. machine perception
 This line of research compares machine perception vs. human perception using machine explanations.
 
 - <a name="todo"></a> Passive attention in artificial neural networks predicts human visual selectivity (**NeurIPS2021**) - [review ](https://github.com/luulinh90s/paper-review-interpretable-DL/edit/master/reviews/IBG_vs_human_perception.md)
+-->
 
 ## Interpreting Large Foundation Models
 - Rethinking Interpretability in the Era of Large Language Models, https://arxiv.org/html/2402.01761v1
 - Towards Monosemanticity: Decomposing Language Models With Dictionary Learning https://transformer-circuits.pub/2023/monosemantic-features
+- Toy Models of Superposition https://transformer-circuits.pub/2022/toy_model/index.html
+
+### Interactive XAI (added on Mar 16 2024)
+- Explaining decision-making algorithms through UI: Strategies to help non-expert stakeholders
+- An Interactive UI to Support Sensemaking over Collections of Parallel Texts
+- Rethinking Explainability as a Dialogue: A Practitioner's Perspective
+- May I Ask a Follow-up Question? Understanding the Benefits of Conversations in Neural Network Explainability
+- Explaining machine learning models with interactive natural language conversations using TalkToModel
 
 
