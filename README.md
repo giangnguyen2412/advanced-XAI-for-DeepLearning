@@ -143,5 +143,6 @@ This line of research compares machine perception vs. human perception using mac
 - Rethinking Explainability as a Dialogue: A Practitioner's Perspective
 - May I Ask a Follow-up Question? Understanding the Benefits of Conversations in Neural Network Explainability
 - Explaining machine learning models with interactive natural language conversations using TalkToModel
+- Allowing humans to interactively guide machines where to look does not always improve a human-AI team's classification accuracy
 
 
